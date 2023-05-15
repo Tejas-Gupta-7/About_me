@@ -1,2 +1,0 @@
-# About_me
-Passionate about frontend web development, I am on a mission to create engaging and user-friendly interfaces. Constantly learning and exploring the latest technologies and best practices, I strive to craft visually stunning and intuitive websites. With a strong foundation in HTML, CSS, and JavaScript, I am dedicated to delivering seamless user experiences and transforming ideas into beautiful digital realities. Join me as I code my way through the ever-evolving world of frontend development.
